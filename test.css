@@ -1,0 +1,12 @@
+.blue
+{
+    color:blue;
+}
+
+.block1
+{
+    border: 1px solid #000000;
+    padding: 10px;
+    border-radius: 10px;/* 角を丸める */
+    background: #ffffff;
+}
